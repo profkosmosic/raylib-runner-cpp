@@ -7,5 +7,5 @@ Help scarfy jump over all the obstacles coming his way!
 Press space to jump.
 
 ## ASSETS
-Scarfy sprite by Eiden Marsal
-Cyberpunk city background by Luis Zuno
+- Scarfy sprite by Eiden Marsal
+- Cyberpunk city background by Luis Zuno
