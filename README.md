@@ -1,5 +1,5 @@
 # Runner game
-Runner game where you hop over obstacles written in C++ and using the Raylib library.
+Runner game where you hop over obstacles written in C++ and using the Raylib library.<br/>
 Raylib needs to be installed on your machine to build the project.
 
 ## OBJECTIVE
